@@ -1,0 +1,9 @@
+[ librootIO.dylib ]
+# List of selected classes
+class Interface
+class Interface::EdepData
+class Interface::EventData
+class Interface::GenData
+class Interface::LeakageData
+class Interface::TowerData
+header Interface.h
